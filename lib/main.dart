@@ -95,7 +95,7 @@ class _MyMainPageState extends State<MyMainPage> {
   Scaffold createGalleryScaffold() {
     return Scaffold(
         appBar: AppBar(
-          title: Text('Flutter Gallery'),
+          title: Text('Flutter Image Gallery'),
         ),
         body: createSquaredContainer());
   }
